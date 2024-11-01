@@ -14,7 +14,7 @@
     line-height: 21px;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
     list-style: none;
 }
 
@@ -31,7 +31,7 @@
 
 .address {
     font-family: Raleway, sans-serif;
-    font-style: normal; 
+    font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 24px;
@@ -146,7 +146,7 @@
 
 .lots__card-list-item {
     flex-grow: 1;
-};
+}
 
 .card-link {
     display: block;
