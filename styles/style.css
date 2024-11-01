@@ -236,14 +236,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 240px; 
+    width: 240px;
     height: 240px;
     background: #000000;
     border-radius: 50%;
 }
 
 .about__logo-image {
-    width: 148px; 
+    width: 148px;
     height: 114px;
 }
 
