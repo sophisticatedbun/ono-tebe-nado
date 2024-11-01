@@ -234,8 +234,8 @@
     grid-area: logo;
     justify-self: center;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     width: 240px; 
     height: 240px;
     background: #000000;
