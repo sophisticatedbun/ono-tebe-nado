@@ -173,11 +173,11 @@
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
+    z-index: 1;
 }
 
 .card__title {
     position: relative;
-    z-index: 1;
     font-weight: 700;
     font-size: 22px;
     line-height: 26px;
@@ -188,7 +188,6 @@
 
 .card__text {
     position: relative;
-    z-index: 1;
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
